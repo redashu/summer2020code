@@ -23,3 +23,12 @@
   
  </ol>
 
+##  INstalling  Docker  in RHEL 7
+
+```
+sudo yum  install  docker  -y
+sudo systemctl  start  docker
+```
+
+
+
